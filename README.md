@@ -73,6 +73,7 @@
 ---
 
 ## 🛠️ **Premium Features**
+<div align="center">
 
 | Feature                | Shared Hosting | Custom Solutions |
 |------------------------|----------------|------------------|
