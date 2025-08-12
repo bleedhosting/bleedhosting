@@ -43,14 +43,14 @@
 
 <div align="center">
 
-| **Game**              | **Min RAM** | **CPU**    | **Players** | **Price**  | **Mods/Plugins** |
-|-----------------------|------------|-----------|------------|------------|------------------|
-| ⛏ **Minecraft Java**  | 2GB        | 4C/8T     | 1000+      | $15/mo     | Forge, Fabric, Paper |
-| 📱 **Minecraft Bedrock**| 1GB       | 2C/4T     | 100+       | $12/mo     | Resource Packs |
-| 🚓 **FiveM (GTA V)**  | 4GB        | 6C/12T    | 256        | $25/mo     | ESX, QBCore |
-| 🤠 **RedM (RDR2)**    | 4GB        | 6C/12T    | 128        | $22/mo     | VORP, RedEM:RP |
-| 🔫 **Rust**           | 4GB        | 4C/8T     | 300        | $20/mo     | Oxide, uMod |
-| 🤖 **Discord Bots**   | 512MB      | 1C/2T     | Unlimited  | $8/mo      | discord.js, discord.py |
+| **Game**                | **Min RAM** | **CPU**    | **Players** | **Price**  | **Mods/Plugins**         |
+|-------------------------|-------------|------------|-------------|------------|--------------------------|
+| ⛏ **Minecraft Java**    | 4GB         | 4C/8T      | Unlimited   | $10/mo     | Forge, Fabric, Paper     |
+| 📱 **Minecraft Bedrock**| 2GB         | 2C/4T      | Unlimited   | $8/mo      | Resource Packs           |
+| 🚓 **FiveM (GTA V)**    | 6GB         | 6C/12T     | Unlimited   | $18/mo     | ESX, QBCore              |
+| 🤠 **RedM (RDR2)**      | 6GB         | 6C/12T     | Unlimited   | $16/mo     | VORP, RedEM:RP           |
+| 🔫 **Rust**             | 8GB         | 4C/8T      | Unlimited   | $15/mo     | Oxide, uMod              |
+| 🤖 **Discord Bots**     | 1GB         | 1C/2T      | Unlimited   | $5/mo      | discord.js, discord.py   |
 
 </div>
 
@@ -89,12 +89,13 @@
 ## 🌍 **Global Locations**
 <div align="center">
 
-| Region         | Location        
-|----------------|-----------------|
-| 🇺🇸 **NA**     | Dallas, USA     | 
-| 🇨🇦 **NA**     | Montreal, CAN   | 
-| 🇩🇪 **EU**     | Frankfurt, DE   | 
-| 🇬🇧 **EU**     | London, UK      | 
+| Region         | Location           |
+|----------------|-------------------|
+| 🇺🇸 **NA**     | Hillsboro, OR, USA|
+| 🇺🇸 **NA**     | Vint Hill, VA, USA|
+| 🇨🇦 **NA**     | Beauharnois, QC, CA|
+| 🇵🇱 **EU**     | Warsaw, PL        |
+| 🇬🇧 **EU**     | Erith, UK         |
 
 </div>
 
