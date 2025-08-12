@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 **Our Mission**
-> **Bleed.host** exists to deliver *the fastest, most reliable* game hosting experience — built for gamers, by gamers.
+> At **Bleed.host**, our mission is simple: to empower gamers with *unmatched speed, rock-solid reliability,* and *elite performance* all backed by a team of passionate gamers who know what matters most. We’re redefining game hosting so you can focus on playing, not worrying.
 
 <div align="center">
 
@@ -101,14 +101,17 @@
 
 ---
 
-## 📈 **Why Bleed.host?**
-> **Built for speed. Secured for trust. Designed for gamers.**
+## 📈 **Why Choose Bleed.host?**
+> **Engineered for performance. Fortified for security. Perfected for gamers.**
 
-✅ **Instant Deploy** – Your server is live in under 60 seconds  
-✅ **Bleeding-Edge Hardware** – DDR5, Gen4 NVMe, top CPUs  
-✅ **Military-Grade Security** – Up to 500Gbps DDoS filtering  
-✅ **Global Low Latency** – Multiple POPs for best ping  
-✅ **24/7 Expert Support** – Real humans, zero bots  
+- 🚀 **Instant Deployment** – Spin up your server in less than 60 seconds.
+- 🖥️ **Next-Gen Hardware** – DDR5 RAM, Gen4 NVMe SSDs, and the latest CPUs for maximum power.
+- 🛡️ **Advanced DDoS Protection** – Defend your server with up to 500Gbps filtering and real-time mitigation.
+- 🌐 **Ultra-Low Latency** – Multiple global locations ensure the lowest ping, wherever you play.
+- 🤝 **24/7 Expert Support** – Friendly, knowledgeable humans ready to help—no bots, ever.
+- 🔒 **Full Privacy & Control** – Your data stays yours, with root access and custom OS options available.
+
+> **Bleed.host: Where gamers host, and legends are made.**
 
 ---
 
@@ -119,12 +122,13 @@
 [![Website](https://img.shields.io/badge/Website-Bleed.host-FF0000?style=for-the-badge&logo=firefox&logoColor=white)](https://bleed.host)
 
 📧 **Sales:** enterprise@bleed.host  
-📧 **Support:** support@bleed.host  
+📧 **Support:** support@bleed.host
+📧 **DDoS Protection:** admin@bleed.host   
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&text=Bleed.host%20-%20Hosting%20Legends%20Since%202025&fontSize=28&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer&text=Bleed.host%20-%20Bleed%20Deep%20🩸2025&fontSize=28&fontColor=ffffff&animation=twinkling"/>
 </div>
