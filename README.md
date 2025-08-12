@@ -75,14 +75,23 @@
 ## 🛠️ **Premium Features**
 <div align="center">
 
-| Feature                | Shared Hosting | Custom Solutions |
-|------------------------|----------------|------------------|
-| Custom Control Panel   | ✅ | ✅ |
-| DDoS Protection        | ✅ | ✅ |
-| Root Access            | ❌ | ✅ |
-| Custom OS              | ❌ | ✅ |
-| Guaranteed Resources   | Standard | ✅ |
-| White-label Branding   | ❌ | ✅ |
+| Feature                   | Shared Hosting | Custom Solutions |
+|---------------------------|----------------|------------------|
+| Custom Control Panel      | ✅             | ✅               |
+| DDoS Protection           | ✅             | ✅               |
+| Root Access               | ❌             | ✅               |
+| Custom OS                 | ❌             | ✅               |
+| Guaranteed Resources      | Standard       | ✅               |
+| White-label Branding      | ❌             | ✅               |
+| Daily Backups             | ✅             | ✅               |
+| 24/7 Expert Support       | ✅             | ✅               |
+| Instant Deployment        | ✅             | ✅               |
+| Dedicated IP Addresses    | ❌             | ✅               |
+| API Access                | ❌             | ✅               |
+| Advanced Firewall         | Standard       | Enhanced         |
+| Uptime SLA                | 99.9%          | 99.99%           |
+| Custom Network Config     | ❌             | ✅               |
+| Migration Assistance      | ✅             | ✅               |
 
 ---
 
@@ -120,6 +129,9 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Now-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bleed.host)
 [![Website](https://img.shields.io/badge/Website-Bleed.host-FF0000?style=for-the-badge&logo=firefox&logoColor=white)](https://bleed.host)
+[![devilrone](https://img.shields.io/badge/GitHub-devilrone-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devilrone)
+[![fu3i0n](https://img.shields.io/badge/GitHub-fu3i0n-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fu3i0n)
+[![marcelpkg](https://img.shields.io/badge/GitHub-marcelpkg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelpkg)
 
 📧 **Sales:** enterprise@bleed.host  
 📧 **Support:** support@bleed.host
